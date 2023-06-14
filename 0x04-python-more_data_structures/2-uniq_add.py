@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+    """Unique addition"""
 def uniq_add(my_list=[]):
     uniq_list = set(my_list)
     num = 0
